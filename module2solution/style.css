@@ -130,7 +130,6 @@ div.content {
 
 @media (max-width: 750px){
 	#Section{
-		flex-direction: column;
 		margin: auto;
 		padding-left: 15px;
 		width: 90%;
@@ -143,7 +142,6 @@ div.content {
 	background-color: lemonchiffon;
 	border: solid;
 	font-family: serif;
-	display: flex;
 }
 
 #box2 {
