@@ -1,0 +1,168 @@
+p {
+	font-family: serif;
+}
+
+#Header {
+	font-size: 50px;
+	text-align: center;
+}
+
+#Section {
+	margin: auto;
+	width: 90%;
+	padding-left: 20px;
+}
+
+#box1 {
+	float: left;
+	margin: 7px;
+	width: 30%;
+	height: 150px;
+	background-color: lemonchiffon;
+	border: solid;
+	font-family: serif;
+	padding: 0px;
+}
+
+#box2 {
+	float: left;
+	margin: 7px;
+	width: 30%;
+	height: 150px;
+	background-color: lemonchiffon;
+	border: solid;
+	font-family: serif;
+	padding: 0px;
+}
+
+#box3 {
+	float: left;
+	margin: 7px;
+	width: 30%;
+	height: 150px;
+	background-color: lemonchiffon;
+	border: solid;
+	font-family: serif;
+	padding: 0px;
+}
+
+#One {
+	position: absolute;
+	font-size: 20px;
+	width: 60px;
+	top: 0;
+	right: 0;
+	width: 50;
+	height: 50;
+	border: solid;
+	background-color: red;
+}
+
+#Two {
+	position: absolute;
+	font-size: 20px;
+	width: 60px;
+	top: 0;
+	right: 0;
+	width: 50;
+	height: 50;
+	border: solid;
+	background-color: yellow;
+}
+
+#Three {
+	position: absolute;
+	font-size: 20px;
+	width: 60px;
+	top: 0;
+	right: 0;
+	width: 50;
+	height: 50;
+	border: solid;
+	background-color: green;
+}
+
+div.content {
+	position: relative;
+	font-family: sans-serif;
+	text-align: left;
+	padding-top: 30px;
+	padding-left: 10px;
+}
+
+@media (max-width: 890px){
+	#Section {
+		margin: auto;
+		width: 95%;
+		padding-left: 35px;
+	}
+
+	#box1 {
+	float: left;
+	margin: 6px;
+	width: 44%;
+	height: 150px;
+	background-color: lemonchiffon;
+	border: solid;
+	font-family: serif;
+}
+
+#box2 {
+	float: left;
+	margin: 6px;
+	width: 44%;
+	height: 150px;
+	background-color: lemonchiffon;
+	border: solid;
+	font-family: serif;
+}
+
+#box3 {
+	clear: both;
+	margin: 6px;
+	width: 90%;
+	height: 150px;
+	background-color: lemonchiffon;
+	border: solid;
+	font-family: serif;
+}
+}
+
+@media (max-width: 750px){
+	#Section{
+		flex-direction: column;
+		margin: auto;
+		padding-left: 15px;
+		width: 90%;
+	}
+	#box1 {
+	float: left;
+	margin: 10px;
+	width: 90%;
+	height: 150px;
+	background-color: lemonchiffon;
+	border: solid;
+	font-family: serif;
+	display: flex;
+}
+
+#box2 {
+	float: left;
+	margin: 10px;
+	width: 90%;
+	height: 150px;
+	background-color: lemonchiffon;
+	border: solid;
+	font-family: serif;
+}
+
+#box3 {
+	float: left;
+	margin: 10px;
+	width: 90%;
+	height: 150px;
+	background-color: lemonchiffon;
+	border: solid;
+	font-family: serif;
+}
+}
