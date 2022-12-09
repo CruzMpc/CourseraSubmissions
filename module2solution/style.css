@@ -56,6 +56,8 @@ p {
 	height: 50;
 	border: solid;
 	background-color: red;
+	margin-left: -3px;
+    margin-top: -2px;
 }
 
 #Two {
@@ -68,6 +70,8 @@ p {
 	height: 50;
 	border: solid;
 	background-color: yellow;
+	margin-left: -3px;
+    margin-top: -2px;
 }
 
 #Three {
@@ -80,6 +84,8 @@ p {
 	height: 50;
 	border: solid;
 	background-color: green;
+	margin-left: -3px;
+    margin-top: -2px;
 }
 
 div.content {
