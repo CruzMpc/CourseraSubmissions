@@ -101,30 +101,18 @@ div.content {
 	float: left;
 	margin: 6px;
 	width: 44%;
-	height: 150px;
-	background-color: lemonchiffon;
-	border: solid;
-	font-family: serif;
 }
 
 #box2 {
 	float: left;
 	margin: 6px;
 	width: 44%;
-	height: 150px;
-	background-color: lemonchiffon;
-	border: solid;
-	font-family: serif;
 }
 
 #box3 {
 	clear: both;
 	margin: 6px;
 	width: 90%;
-	height: 150px;
-	background-color: lemonchiffon;
-	border: solid;
-	font-family: serif;
 }
 }
 
@@ -138,29 +126,16 @@ div.content {
 	float: left;
 	margin: 10px;
 	width: 90%;
-	height: 150px;
-	background-color: lemonchiffon;
-	border: solid;
-	font-family: serif;
 }
 
 #box2 {
 	float: left;
 	margin: 10px;
 	width: 90%;
-	height: 150px;
-	background-color: lemonchiffon;
-	border: solid;
-	font-family: serif;
 }
 
 #box3 {
 	float: left;
 	margin: 10px;
 	width: 90%;
-	height: 150px;
-	background-color: lemonchiffon;
-	border: solid;
-	font-family: serif;
-}
 }
